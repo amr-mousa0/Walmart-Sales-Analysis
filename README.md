@@ -89,7 +89,7 @@ Several business KPIs were created using DAX:
 
 ---
 
-# 📊Power BI Dashboard
+# Power BI Dashboard
 
 The project consists of a comprehensive executive dashboard that provides multiple analytical perspectives.
 
@@ -195,8 +195,6 @@ Using Power BI dashboards, DAX measures, and interactive visualizations, this an
 
 #  Dashboard Preview
 
-> Add dashboard screenshots here.
-
 ## Executive Dashboard
 
 ![Dashboard Preview](images/Image1.png)
@@ -206,8 +204,7 @@ Using Power BI dashboards, DAX measures, and interactive visualizations, this an
 
 # 🔗 Live Demo
 
-[**View the Interactive Dashboard Live Here**]((https://app.powerbi.com/view?r=eyJrIjoiOTk0YWU0ODYtMGZjMC00OWRhLWI3NGUtNjMxMzIzNDNjMGM4IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9))
-
+[**View the Interactive Dashboard Live Here**](https://app.powerbi.com/view?r=eyJrIjoiOTk0YWU0ODYtMGZjMC00OWRhLWI3NGUtNjMxMzIzNDNjMGM4IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
 ---
 
 #  Project Structure
