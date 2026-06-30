@@ -199,13 +199,14 @@ Using Power BI dashboards, DAX measures, and interactive visualizations, this an
 
 ## Executive Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard Preview](images/Image1.png)
+![filter open](images/image2.png) 
 
 ---
 
 # 🔗 Live Demo
 
-**View Interactive Dashboard**
+[**View the Interactive Dashboard Live Here**]((https://app.powerbi.com/view?r=eyJrIjoiOTk0YWU0ODYtMGZjMC00OWRhLWI3NGUtNjMxMzIzNDNjMGM4IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9))
 
 ---
 
@@ -215,7 +216,6 @@ Using Power BI dashboards, DAX measures, and interactive visualizations, this an
 Walmart-Sales-Analysis/
 │
 ├── Dashboard.pbix
-├── Dataset.xlsx
 ├── images/
 │   └── dashboard.png
 ├── README.md
