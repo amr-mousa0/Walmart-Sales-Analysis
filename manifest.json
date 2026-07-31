@@ -1,11 +1,16 @@
 {
   "schemaVersion": 1,
-  "minimumReaderVersion": 1,
 
   "project": {
     "title": "Walmart Sales Analysis",
 
     "description": "A Power BI business intelligence project analyzing Walmart weekly sales, holiday performance, seasonality, and external economic indicators to generate actionable business insights.",
+
+    "problem": "The business lacked visibility into weekly sales performance, seasonal demand, and the impact of holidays and economic indicators, making it difficult to optimize planning, inventory, and marketing decisions.",
+
+    "solution": "Built an interactive Power BI dashboard using a Star Schema data model, DAX measures, and time intelligence to analyze sales trends, holiday performance, store comparisons, and external economic factors.",
+
+    "businessValue": "Enabled data-driven decision making by identifying seasonal sales patterns, measuring holiday impact, comparing store performance, and demonstrating that holidays had a significantly greater influence on revenue than short-term economic indicators.",
 
     "status": "production",
 
@@ -22,15 +27,27 @@
 
     "cover": "assets/cover.webp",
 
+    "gallery": [
+      {
+        "type": "image",
+        "title": "Executive Dashboard",
+        "file": "assets/cover.webp"
+      },
+      {
+        "type": "image",
+        "title": "Dashboard Filters",
+        "file": "images/image2.png"
+      },
+      {
+        "type": "powerbi",
+        "title": "Interactive Power BI Dashboard",
+        "url": "https://app.powerbi.com/view?r=eyJrIjoiOTk0YWU0ODYtMGZjMC00OWRhLWI3NGUtNjMxMzIzNDNjMGM4IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9"
+      }
+    ],
+
     "demo": "https://app.powerbi.com/view?r=eyJrIjoiOTk0YWU0ODYtMGZjMC00OWRhLWI3NGUtNjMxMzIzNDNjMGM4IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9",
 
-    "caseStudy": null,
-
-    "capabilities": {
-      "demo": true,
-      "caseStudy": false,
-      "cover": true
-    }
+    "caseStudy": null
   },
 
   "publish": {
