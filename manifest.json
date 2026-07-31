@@ -9,16 +9,6 @@
 
     "status": "production",
 
-    "repositoryType": "dashboard",
-
-    "primaryLanguage": "DAX",
-
-    "technologies": [
-      "Power BI",
-      "DAX",
-      "Excel"
-    ],
-
     "tags": [
       "Business Intelligence",
       "Power BI",
@@ -30,33 +20,16 @@
       "DAX"
     ],
 
-    "assets": {
-      "cover": "images/Image1.png",
-      "gallery": [
-        "images/Image1.png",
-        "images/image2.png"
-      ],
-      "logo": null
-    },
+    "cover": "assets/cover.webp",
 
-    "links": {
-      "demo": "https://app.powerbi.com/view?r=eyJrIjoiOTk0YWU0ODYtMGZjMC00OWRhLWI3NGUtNjMxMzIzNDNjMGM4IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9",
-      "caseStudy": null
-    },
+    "demo": "https://app.powerbi.com/view?r=eyJrIjoiOTk0YWU0ODYtMGZjMC00OWRhLWI3NGUtNjMxMzIzNDNjMGM4IiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9",
+
+    "caseStudy": null,
 
     "capabilities": {
-      "cover": true,
-      "gallery": true,
       "demo": true,
       "caseStudy": false,
-      "logo": false
-    },
-
-    "metrics": {
-      "dashboardPages": 1,
-      "factTables": 1,
-      "dimensionTables": 4,
-      "interactiveDashboard": true
+      "cover": true
     }
   },
 
@@ -66,8 +39,8 @@
       "visibility": "public",
       "featured": true,
       "priority": 20,
-      "customTitle": "Walmart Sales Analysis Dashboard",
-      "category": "Business Intelligence"
+
+      "customTitle": "Walmart Sales Analysis Dashboard"
     }
   }
 }
