@@ -58,6 +58,14 @@
       "priority": 20,
 
       "customTitle": "Walmart Sales Analysis Dashboard"
+        }
+       "mousa-analytics": {
+      "enabled": true,
+      "visibility": "public",
+      "featured": false,
+      "priority": 51,
+      "customTitle": "Walmart Sales Analysis Dashboard"
+    
     }
   }
 }
